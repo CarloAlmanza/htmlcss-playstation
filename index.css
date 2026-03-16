@@ -57,3 +57,12 @@ button {
 .accessori {
     width: 100%;
 }
+
+.sfondo-it-takes-two {
+    background-image: url("./img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
