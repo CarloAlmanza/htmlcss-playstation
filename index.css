@@ -26,9 +26,9 @@ button {
 }
 
 .sfondo-returnal {
-    background-image: url("./img/returnal-listing-thumb-01-ps5.jpg");
+    background-image: url("./img/jumbo-bg.png");
     background-size: cover;
-    background-position: right;
+    background-position: center;
     height: 500px;
     display: flex;
     align-items: center;
