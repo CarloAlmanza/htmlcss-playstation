@@ -24,3 +24,16 @@ button {
 .icona {
     width: 24px;
 }
+
+.sfondo-returnal {
+    background-image: url("./img/returnal-listing-thumb-01-ps5.jpg");
+    background-size: cover;
+    background-position: right;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.bottom {
+    bottom: -220px;
+}
