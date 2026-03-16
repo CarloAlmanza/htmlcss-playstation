@@ -37,3 +37,11 @@ button {
 .bottom {
     bottom: -220px;
 }
+
+.game {
+    width: 100%;
+}
+
+.game:hover {
+    transform: translateY(-5px);
+}
