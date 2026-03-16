@@ -74,3 +74,20 @@ button {
 .playstation-now {
     background-color: rgb(22 28 59);
 }
+
+.social {
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .social-media {
+        width: 75%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .social-media {
+        width: 50%;
+    }
+}
