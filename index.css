@@ -45,3 +45,15 @@ button {
 .game:hover {
     transform: translateY(-5px);
 }
+
+.slogan {
+    font-size: 12px;
+}
+
+.ps5 {
+    width: 100%;
+}
+
+.accessori {
+    width: 100%;
+}
