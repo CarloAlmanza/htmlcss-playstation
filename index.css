@@ -94,6 +94,10 @@ button {
     .links {
         width: 50%;
     }
+
+    .copyright {
+        width: 50%;
+    }
 }
 
 footer {
