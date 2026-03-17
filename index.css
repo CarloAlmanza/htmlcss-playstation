@@ -90,4 +90,24 @@ button {
     .social-media {
         width: 50%;
     }
+
+    .links {
+        width: 50%;
+    }
+}
+
+footer {
+    background-color: rgb(0 67 156);
+}
+
+.lenguages {
+    width: 16px;
+}
+
+.link {
+    list-style: none;
+}
+
+.sie {
+    width: 100px;
 }
